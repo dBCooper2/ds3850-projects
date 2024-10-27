@@ -115,3 +115,5 @@ Each project can be run independently. Navigate to the project directory and run
 ```bash
 python project_name.py
 ```
+
+### This project was generated using Anthropic's Claude 3.5 Sonnet AI. 
